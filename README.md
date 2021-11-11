@@ -1,5 +1,6 @@
 # flow-cytometry-with-ggplot
-use your flowjo analysis to plot graphs in R 
+
+# let it flow with ggplot : use R to plot your flowjo analysis
 
 flowjo is great for processing your flow data and creating gates manually. however, creating histograms and plots while taking into account your sample annotation can bea bit of a pain! All those things ggplot handles perfectly...  However, luckly, thanks to the creators of the cytoML and ggcyto packages this is actually super doable in R and here I will show you how :)
 
